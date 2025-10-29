@@ -1,0 +1,10 @@
+@use 'variables';
+@use 'mixins';
+@use 'reset';
+
+
+body {
+  font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+  color: $text;
+  background: $light;
+}
