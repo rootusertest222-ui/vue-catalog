@@ -2,803 +2,803 @@
   "products": [
     {
       "id": 1,
-      "name": "Fresh Granite Chips",
-      "price": 284.39,
-      "description": "Professional-grade Keyboard perfect for creamy training and recreational use",
-      "category": "Games",
+      "name": "Small Ceramic Keyboard",
+      "price": 291.39,
+      "description": "Unbranded Hat designed with Granite for lighthearted performance",
+      "category": "Tools",
       "image": "https://picsum.photos/400/400?random=1",
-      "rating": 1.6282853441144742,
-      "inStock": false,
+      "rating": 2.231549330895921,
+      "inStock": true,
       "fastDelivery": false,
       "tags": [
         "sale",
-        "popular"
+        "new"
       ],
-      "brand": "Lockman and Sons"
+      "brand": "Hills, Corkery and Kemmer"
     },
     {
       "id": 2,
-      "name": "Unbranded Concrete Fish",
-      "price": 327.95,
-      "description": "Professional-grade Fish perfect for easy training and recreational use",
-      "category": "Jewelry",
+      "name": "Luxurious Marble Soap",
+      "price": 886.79,
+      "description": "Experience the black brilliance of our Pants, perfect for unsung environments",
+      "category": "Electronics",
       "image": "https://picsum.photos/400/400?random=2",
-      "rating": 2.341497997469461,
-      "inStock": true,
-      "fastDelivery": true,
+      "rating": 4.781720438380613,
+      "inStock": false,
+      "fastDelivery": false,
       "tags": [
-        "sale",
-        "popular"
+        "popular",
+        "sale"
       ],
-      "brand": "Larson - Aufderhar"
+      "brand": "Cassin Inc"
     },
     {
       "id": 3,
-      "name": "Bespoke Wooden Sausages",
-      "price": 72.6,
-      "description": "Stylish Chicken designed to make you stand out with oddball looks",
-      "category": "Computers",
+      "name": "Licensed Silk Car",
+      "price": 358.19,
+      "description": "The Catalina Chicken is the latest in a series of sturdy products from Howell, D'Amore and Emmerich",
+      "category": "Tools",
       "image": "https://picsum.photos/400/400?random=3",
-      "rating": 3.5044611531185743,
-      "inStock": true,
+      "rating": 3.0580568020178704,
+      "inStock": false,
       "fastDelivery": false,
       "tags": [
-        "sale",
-        "popular"
+        "popular",
+        "sale"
       ],
-      "brand": "Waters, Gorczany and Hermiston"
+      "brand": "Hartmann, Boehm and Glover"
     },
     {
       "id": 4,
-      "name": "Intelligent Cotton Towels",
-      "price": 766.5,
-      "description": "Ergonomic Shirt made with Wooden for all-day legal support",
-      "category": "Outdoors",
+      "name": "Elegant Gold Towels",
+      "price": 78.15,
+      "description": "The Intuitive radical synergy Chicken offers reliable performance and somber design",
+      "category": "Shoes",
       "image": "https://picsum.photos/400/400?random=4",
-      "rating": 3.4048143340313657,
+      "rating": 3.4279174852006125,
       "inStock": false,
-      "fastDelivery": false,
+      "fastDelivery": true,
       "tags": [
-        "sale",
-        "new"
+        "popular",
+        "sale"
       ],
-      "brand": "Hahn, Muller and Schroeder"
+      "brand": "Casper - Lang"
     },
     {
       "id": 5,
-      "name": "Sleek Cotton Car",
-      "price": 740.75,
-      "description": "The Jeremie Table is the latest in a series of artistic products from Pouros - Rogahn",
-      "category": "Home",
+      "name": "Generic Steel Car",
+      "price": 468.69,
+      "description": "Featuring Neon-enhanced technology, our Shirt offers unparalleled shallow performance",
+      "category": "Music",
       "image": "https://picsum.photos/400/400?random=5",
-      "rating": 3.0551978483299034,
-      "inStock": false,
-      "fastDelivery": false,
+      "rating": 2.59103494538369,
+      "inStock": true,
+      "fastDelivery": true,
       "tags": [
         "new",
         "sale"
       ],
-      "brand": "Raynor and Sons"
+      "brand": "Jacobs, Mertz and Walsh"
     },
     {
       "id": 6,
-      "name": "Handmade Aluminum Fish",
-      "price": 377.95,
-      "description": "Introducing the Palau-inspired Salad, blending natural style with local craftsmanship",
-      "category": "Home",
+      "name": "Unbranded Silk Cheese",
+      "price": 829.89,
+      "description": "Stylish Keyboard designed to make you stand out with pricey looks",
+      "category": "Garden",
       "image": "https://picsum.photos/400/400?random=6",
-      "rating": 4.202083885245741,
+      "rating": 4.6914166481573165,
       "inStock": false,
-      "fastDelivery": false,
+      "fastDelivery": true,
       "tags": [
-        "sale",
-        "new"
+        "new",
+        "sale"
       ],
-      "brand": "Nicolas - Welch"
+      "brand": "Johns, Klocko and Friesen"
     },
     {
       "id": 7,
-      "name": "Electronic Bamboo Tuna",
-      "price": 712.7,
-      "description": "Introducing the Kyrgyz Republic-inspired Hat, blending slushy style with local craftsmanship",
-      "category": "Baby",
+      "name": "Modern Concrete Towels",
+      "price": 570.29,
+      "description": "The Wade Gloves is the latest in a series of legal products from Kautzer, Huels and Hoeger",
+      "category": "Books",
       "image": "https://picsum.photos/400/400?random=7",
-      "rating": 1.9646429858104013,
+      "rating": 1.0395051757029359,
       "inStock": false,
       "fastDelivery": true,
       "tags": [
-        "popular",
-        "new"
+        "sale",
+        "popular"
       ],
-      "brand": "Steuber Group"
+      "brand": "Armstrong, Olson and Weimann"
     },
     {
       "id": 8,
-      "name": "Ergonomic Rubber Soap",
-      "price": 894.55,
-      "description": "Experience the pink brilliance of our Bike, perfect for messy environments",
-      "category": "Electronics",
+      "name": "Generic Bronze Fish",
+      "price": 133.09,
+      "description": "The turquoise Mouse combines Greenland aesthetics with Plutonium-based durability",
+      "category": "Automotive",
       "image": "https://picsum.photos/400/400?random=8",
-      "rating": 1.4204939206388687,
-      "inStock": true,
-      "fastDelivery": true,
+      "rating": 4.400312477216087,
+      "inStock": false,
+      "fastDelivery": false,
       "tags": [
-        "sale",
-        "popular"
+        "popular",
+        "new"
       ],
-      "brand": "Romaguera, Schiller and Lubowitz"
+      "brand": "Roob - Bauch"
     },
     {
       "id": 9,
-      "name": "Fresh Marble Soap",
-      "price": 58.49,
-      "description": "Discover the corrupt new Keyboard with an exciting mix of Rubber ingredients",
-      "category": "Garden",
+      "name": "Ergonomic Concrete Cheese",
+      "price": 146.69,
+      "description": "Our sweet-inspired Ball brings a taste of luxury to your tepid lifestyle",
+      "category": "Home",
       "image": "https://picsum.photos/400/400?random=9",
-      "rating": 4.894848534335576,
-      "inStock": true,
+      "rating": 1.436846525225485,
+      "inStock": false,
       "fastDelivery": true,
       "tags": [
         "sale",
-        "popular"
+        "new"
       ],
-      "brand": "Huels LLC"
+      "brand": "Hayes, Larkin and Haag"
     },
     {
       "id": 10,
-      "name": "Licensed Marble Tuna",
-      "price": 148.48,
-      "description": "Our elephant-friendly Hat ensures shocked comfort for your pets",
-      "category": "Health",
+      "name": "Gorgeous Metal Computer",
+      "price": 698.55,
+      "description": "The Virtual exuding archive Ball offers reliable performance and delectable design",
+      "category": "Home",
       "image": "https://picsum.photos/400/400?random=10",
-      "rating": 1.5377985623058321,
+      "rating": 1.2839958864704948,
       "inStock": true,
       "fastDelivery": false,
       "tags": [
-        "popular",
+        "new",
         "sale"
       ],
-      "brand": "Lubowitz and Sons"
+      "brand": "Shields Group"
     },
     {
       "id": 11,
-      "name": "Modern Bamboo Mouse",
-      "price": 940.75,
-      "description": "The sleek and weekly Shoes comes with plum LED lighting for smart functionality",
-      "category": "Electronics",
+      "name": "Intelligent Ceramic Towels",
+      "price": 285.29,
+      "description": "Featuring Potassium-enhanced technology, our Shirt offers unparalleled mild performance",
+      "category": "Baby",
       "image": "https://picsum.photos/400/400?random=11",
-      "rating": 3.2425213406268947,
+      "rating": 4.239841038574492,
       "inStock": true,
       "fastDelivery": false,
       "tags": [
-        "sale",
-        "new"
+        "new",
+        "popular"
       ],
-      "brand": "Stiedemann Inc"
+      "brand": "Shanahan - Dickens"
     },
     {
       "id": 12,
-      "name": "Practical Wooden Shoes",
-      "price": 387.07,
-      "description": "The red Gloves combines Montserrat aesthetics with Hafnium-based durability",
+      "name": "Sleek Plastic Hat",
+      "price": 703.19,
+      "description": "Our hamster-friendly Bike ensures acclaimed comfort for your pets",
       "category": "Clothing",
       "image": "https://picsum.photos/400/400?random=12",
-      "rating": 1.0864711324218064,
+      "rating": 1.4832182154354925,
       "inStock": true,
       "fastDelivery": false,
       "tags": [
-        "sale",
-        "new"
+        "new",
+        "sale"
       ],
-      "brand": "Huel - Johnson"
+      "brand": "Mayert and Sons"
     },
     {
       "id": 13,
-      "name": "Rustic Gold Keyboard",
-      "price": 245.25,
-      "description": "New Soap model with 63 GB RAM, 482 GB storage, and defensive features",
-      "category": "Books",
+      "name": "Frozen Granite Car",
+      "price": 247.65,
+      "description": "Ergonomic Table made with Silk for all-day giving support",
+      "category": "Sports",
       "image": "https://picsum.photos/400/400?random=13",
-      "rating": 4.506831376692704,
-      "inStock": true,
-      "fastDelivery": true,
+      "rating": 4.396521743067226,
+      "inStock": false,
+      "fastDelivery": false,
       "tags": [
         "popular",
         "new"
       ],
-      "brand": "Rosenbaum LLC"
+      "brand": "Aufderhar, Cummings and Wilderman"
     },
     {
       "id": 14,
-      "name": "Incredible Silk Shoes",
-      "price": 933.39,
-      "description": "Farrell and Sons's most advanced Table technology increases whopping capabilities",
-      "category": "Automotive",
+      "name": "Rustic Bronze Sausages",
+      "price": 86.05,
+      "description": "Discover the polar bear-like agility of our Computer, perfect for far-flung users",
+      "category": "Baby",
       "image": "https://picsum.photos/400/400?random=14",
-      "rating": 2.1854871928839232,
-      "inStock": true,
-      "fastDelivery": true,
+      "rating": 3.635496939164874,
+      "inStock": false,
+      "fastDelivery": false,
       "tags": [
         "popular",
-        "sale"
+        "new"
       ],
-      "brand": "Von Inc"
+      "brand": "Huels Inc"
     },
     {
       "id": 15,
-      "name": "Fresh Aluminum Chair",
-      "price": 261.09,
-      "description": "Discover the zebra-like agility of our Tuna, perfect for grounded users",
-      "category": "Jewelry",
+      "name": "Ergonomic Silk Fish",
+      "price": 159.89,
+      "description": "Experience the lime brilliance of our Shoes, perfect for apt environments",
+      "category": "Home",
       "image": "https://picsum.photos/400/400?random=15",
-      "rating": 1.4317704627105692,
-      "inStock": false,
+      "rating": 3.474831843060186,
+      "inStock": true,
       "fastDelivery": false,
       "tags": [
-        "new",
+        "popular",
         "sale"
       ],
-      "brand": "Abernathy - Miller"
+      "brand": "Lowe - Ryan"
     },
     {
       "id": 16,
-      "name": "Elegant Metal Sausages",
-      "price": 315.45,
-      "description": "Introducing the Cook Islands-inspired Pants, blending filthy style with local craftsmanship",
-      "category": "Outdoors",
+      "name": "Refined Granite Shoes",
+      "price": 642.26,
+      "description": "Innovative Gloves featuring scornful technology and Aluminum construction",
+      "category": "Electronics",
       "image": "https://picsum.photos/400/400?random=16",
-      "rating": 1.1087572483415227,
-      "inStock": false,
+      "rating": 2.5633919266285066,
+      "inStock": true,
       "fastDelivery": true,
       "tags": [
-        "sale",
-        "new"
+        "new",
+        "popular"
       ],
-      "brand": "Reynolds, Cremin and Pagac"
+      "brand": "Bode Group"
     },
     {
       "id": 17,
-      "name": "Handcrafted Metal Soap",
-      "price": 156.19,
-      "description": "Innovative Computer featuring trim technology and Cotton construction",
-      "category": "Outdoors",
+      "name": "Oriental Wooden Bacon",
+      "price": 67.39,
+      "description": "New Cheese model with 3 GB RAM, 547 GB storage, and sunny features",
+      "category": "Games",
       "image": "https://picsum.photos/400/400?random=17",
-      "rating": 1.4881063535795773,
-      "inStock": false,
-      "fastDelivery": false,
+      "rating": 3.4799823087340274,
+      "inStock": true,
+      "fastDelivery": true,
       "tags": [
         "sale",
-        "new"
+        "popular"
       ],
-      "brand": "Huel - Metz"
+      "brand": "Williamson - Becker"
     },
     {
       "id": 18,
-      "name": "Bespoke Wooden Pants",
-      "price": 464.65,
-      "description": "Discover the sea lion-like agility of our Mouse, perfect for liquid users",
-      "category": "Toys",
+      "name": "Elegant Steel Mouse",
+      "price": 824.45,
+      "description": "Our crispy-inspired Table brings a taste of luxury to your ironclad lifestyle",
+      "category": "Music",
       "image": "https://picsum.photos/400/400?random=18",
-      "rating": 3.6997342777607973,
+      "rating": 2.4556719135629494,
       "inStock": false,
-      "fastDelivery": true,
+      "fastDelivery": false,
       "tags": [
         "popular",
-        "new"
+        "sale"
       ],
-      "brand": "Sipes, Jacobson and Schimmel"
+      "brand": "Weimann - Wilderman"
     },
     {
       "id": 19,
-      "name": "Soft Wooden Mouse",
-      "price": 614.79,
-      "description": "Ergonomic Pants made with Bronze for all-day grouchy support",
-      "category": "Tools",
+      "name": "Soft Concrete Soap",
+      "price": 739,
+      "description": "The Marco Mouse is the latest in a series of total products from Schoen - Brekke",
+      "category": "Garden",
       "image": "https://picsum.photos/400/400?random=19",
-      "rating": 1.9735792063261521,
-      "inStock": true,
+      "rating": 1.1663896322377934,
+      "inStock": false,
       "fastDelivery": false,
       "tags": [
-        "popular",
+        "sale",
         "new"
       ],
-      "brand": "Barton, Rath and Ward"
+      "brand": "Kihn Inc"
     },
     {
       "id": 20,
-      "name": "Handcrafted Aluminum Towels",
-      "price": 53.89,
-      "description": "Introducing the Trinidad and Tobago-inspired Bike, blending pricey style with local craftsmanship",
-      "category": "Outdoors",
+      "name": "Small Cotton Mouse",
+      "price": 761.19,
+      "description": "Featuring Bohrium-enhanced technology, our Pizza offers unparalleled lasting performance",
+      "category": "Baby",
       "image": "https://picsum.photos/400/400?random=20",
-      "rating": 3.9759375063640747,
-      "inStock": false,
-      "fastDelivery": true,
+      "rating": 3.4720716773828157,
+      "inStock": true,
+      "fastDelivery": false,
       "tags": [
         "sale",
-        "new"
+        "popular"
       ],
-      "brand": "Altenwerth - Gerhold"
+      "brand": "Carter - Stracke"
     },
     {
       "id": 21,
-      "name": "Frozen Granite Chair",
-      "price": 771.65,
-      "description": "Elegant Shirt designed with Plastic for hard-to-find performance",
-      "category": "Baby",
+      "name": "Rustic Metal Shirt",
+      "price": 920.39,
+      "description": "Discover the unsung new Table with an exciting mix of Plastic ingredients",
+      "category": "Kids",
       "image": "https://picsum.photos/400/400?random=21",
-      "rating": 2.52612437404399,
-      "inStock": false,
-      "fastDelivery": true,
+      "rating": 3.6588597407708123,
+      "inStock": true,
+      "fastDelivery": false,
       "tags": [
-        "popular",
+        "sale",
         "new"
       ],
-      "brand": "Marvin - Steuber"
+      "brand": "Spinka - Hamill"
     },
     {
       "id": 22,
-      "name": "Generic Silk Chicken",
-      "price": 874.95,
-      "description": "Stanton, Kassulke and Huel's most advanced Car technology increases profitable capabilities",
-      "category": "Industrial",
+      "name": "Tasty Cotton Tuna",
+      "price": 14.29,
+      "description": "The Madeline Tuna is the latest in a series of filthy products from Welch Inc",
+      "category": "Shoes",
       "image": "https://picsum.photos/400/400?random=22",
-      "rating": 3.297395078400595,
-      "inStock": true,
+      "rating": 1.050458035710352,
+      "inStock": false,
       "fastDelivery": false,
       "tags": [
-        "sale",
-        "popular"
+        "popular",
+        "new"
       ],
-      "brand": "Rodriguez, Borer and Dickinson"
+      "brand": "Spencer, Nolan and Jenkins"
     },
     {
       "id": 23,
-      "name": "Elegant Aluminum Shoes",
-      "price": 632.4,
-      "description": "Soft Chair designed with Silk for clumsy performance",
-      "category": "Movies",
+      "name": "Oriental Rubber Fish",
+      "price": 901.85,
+      "description": "The Danielle Pants is the latest in a series of rough products from Lemke, Rutherford and Littel",
+      "category": "Kids",
       "image": "https://picsum.photos/400/400?random=23",
-      "rating": 3.782177726589252,
-      "inStock": true,
+      "rating": 2.2508797446052857,
+      "inStock": false,
       "fastDelivery": false,
       "tags": [
         "popular",
-        "sale"
+        "new"
       ],
-      "brand": "Kovacek Inc"
+      "brand": "Pfannerstill, Kreiger and Jones"
     },
     {
       "id": 24,
-      "name": "Rustic Aluminum Gloves",
-      "price": 965.09,
-      "description": "Our bear-friendly Chips ensures stained comfort for your pets",
-      "category": "Movies",
+      "name": "Fresh Concrete Bacon",
+      "price": 910.26,
+      "description": "The Robust transitional success Salad offers reliable performance and simplistic design",
+      "category": "Industrial",
       "image": "https://picsum.photos/400/400?random=24",
-      "rating": 2.808077076725058,
-      "inStock": false,
-      "fastDelivery": false,
+      "rating": 2.386044698854918,
+      "inStock": true,
+      "fastDelivery": true,
       "tags": [
         "sale",
         "new"
       ],
-      "brand": "Bruen, Lang and Marquardt"
+      "brand": "Williamson - Mohr"
     },
     {
       "id": 25,
-      "name": "Electronic Silk Shirt",
-      "price": 500.9,
-      "description": "Featuring Mercury-enhanced technology, our Table offers unparalleled nocturnal performance",
-      "category": "Kids",
+      "name": "Fantastic Rubber Chicken",
+      "price": 379.19,
+      "description": "Stylish Chips designed to make you stand out with obvious looks",
+      "category": "Outdoors",
       "image": "https://picsum.photos/400/400?random=25",
-      "rating": 4.211073294386189,
-      "inStock": true,
+      "rating": 1.9746244610940704,
+      "inStock": false,
       "fastDelivery": true,
       "tags": [
-        "sale",
-        "popular"
+        "popular",
+        "sale"
       ],
-      "brand": "Kling - Rosenbaum"
+      "brand": "Murray and Sons"
     },
     {
       "id": 26,
-      "name": "Fresh Aluminum Chair",
-      "price": 952.9,
-      "description": "Anderson - Olson's most advanced Tuna technology increases faint capabilities",
-      "category": "Health",
+      "name": "Recycled Bamboo Salad",
+      "price": 483.69,
+      "description": "Experience the fuchsia brilliance of our Shoes, perfect for biodegradable environments",
+      "category": "Music",
       "image": "https://picsum.photos/400/400?random=26",
-      "rating": 1.7430406833203325,
-      "inStock": false,
+      "rating": 4.354841923822738,
+      "inStock": true,
       "fastDelivery": false,
       "tags": [
         "sale",
-        "popular"
+        "new"
       ],
-      "brand": "Hansen, Dare and Ziemann"
+      "brand": "Beier - Hackett"
     },
     {
       "id": 27,
-      "name": "Handmade Metal Salad",
-      "price": 975.95,
-      "description": "Incredible Chicken designed with Aluminum for fuzzy performance",
-      "category": "Beauty",
+      "name": "Fresh Steel Bacon",
+      "price": 831.65,
+      "description": "The sleek and pretty Hat comes with azure LED lighting for smart functionality",
+      "category": "Sports",
       "image": "https://picsum.photos/400/400?random=27",
-      "rating": 3.269642058573815,
+      "rating": 2.1098538371108257,
       "inStock": false,
-      "fastDelivery": false,
+      "fastDelivery": true,
       "tags": [
         "sale",
         "new"
       ],
-      "brand": "Doyle - Smith"
+      "brand": "Simonis, Runolfsdottir and Heller"
     },
     {
       "id": 28,
-      "name": "Gorgeous Metal Chair",
-      "price": 439.45,
-      "description": "The Nicklaus Bacon is the latest in a series of animated products from Tromp, Turner and Ryan",
-      "category": "Shoes",
+      "name": "Incredible Rubber Mouse",
+      "price": 560.8,
+      "description": "Professional-grade Table perfect for courageous training and recreational use",
+      "category": "Health",
       "image": "https://picsum.photos/400/400?random=28",
-      "rating": 1.6099908777368892,
-      "inStock": false,
+      "rating": 2.913915162448727,
+      "inStock": true,
       "fastDelivery": true,
       "tags": [
         "popular",
-        "sale"
+        "new"
       ],
-      "brand": "Steuber, Marvin and Crist"
+      "brand": "Konopelski - Dibbert"
     },
     {
       "id": 29,
-      "name": "Unbranded Metal Computer",
-      "price": 362.29,
-      "description": "Discover the idealistic new Computer with an exciting mix of Metal ingredients",
-      "category": "Health",
+      "name": "Frozen Bronze Fish",
+      "price": 524.75,
+      "description": "Fresh Shoes designed with Bronze for brown performance",
+      "category": "Shoes",
       "image": "https://picsum.photos/400/400?random=29",
-      "rating": 1.7148439152788186,
+      "rating": 2.8065044587616037,
       "inStock": false,
       "fastDelivery": false,
       "tags": [
         "popular",
         "new"
       ],
-      "brand": "Kuhn Group"
+      "brand": "Botsford, Quigley and Lindgren"
     },
     {
       "id": 30,
-      "name": "Incredible Cotton Bacon",
-      "price": 874.89,
-      "description": "Our tangy-inspired Tuna brings a taste of luxury to your noted lifestyle",
-      "category": "Shoes",
+      "name": "Unbranded Steel Shoes",
+      "price": 207.45,
+      "description": "Savor the tender essence in our Gloves, designed for gigantic culinary adventures",
+      "category": "Games",
       "image": "https://picsum.photos/400/400?random=30",
-      "rating": 4.710952478704163,
-      "inStock": true,
-      "fastDelivery": false,
+      "rating": 4.057426149050764,
+      "inStock": false,
+      "fastDelivery": true,
       "tags": [
-        "sale",
-        "popular"
+        "popular",
+        "new"
       ],
-      "brand": "Dach, Monahan and Stanton"
+      "brand": "Flatley, Nicolas and Langosh"
     },
     {
       "id": 31,
-      "name": "Elegant Plastic Soap",
-      "price": 138.59,
-      "description": "New Towels model with 99 GB RAM, 501 GB storage, and descriptive features",
-      "category": "Industrial",
+      "name": "Small Ceramic Chair",
+      "price": 827.49,
+      "description": "Savor the rich essence in our Towels, designed for winged culinary adventures",
+      "category": "Outdoors",
       "image": "https://picsum.photos/400/400?random=31",
-      "rating": 3.94183947889458,
+      "rating": 1.61772902137785,
       "inStock": true,
-      "fastDelivery": true,
+      "fastDelivery": false,
       "tags": [
-        "popular",
+        "new",
         "sale"
       ],
-      "brand": "Koss and Sons"
+      "brand": "McDermott, Muller and Bogisich"
     },
     {
       "id": 32,
-      "name": "Handcrafted Concrete Gloves",
-      "price": 748.79,
-      "description": "Introducing the Vietnam-inspired Ball, blending questionable style with local craftsmanship",
-      "category": "Electronics",
+      "name": "Modern Bronze Mouse",
+      "price": 487.79,
+      "description": "Stylish Ball designed to make you stand out with silver looks",
+      "category": "Grocery",
       "image": "https://picsum.photos/400/400?random=32",
-      "rating": 4.300955145444295,
+      "rating": 1.262924705039079,
       "inStock": true,
       "fastDelivery": true,
       "tags": [
         "new",
-        "popular"
+        "sale"
       ],
-      "brand": "Keeling - Hudson"
+      "brand": "Halvorson - Brekke"
     },
     {
       "id": 33,
-      "name": "Fantastic Marble Mouse",
-      "price": 299.6,
-      "description": "The cyan Chicken combines Egypt aesthetics with Rhenium-based durability",
-      "category": "Tools",
+      "name": "Oriental Gold Salad",
+      "price": 984.4,
+      "description": "The sleek and putrid Gloves comes with violet LED lighting for smart functionality",
+      "category": "Electronics",
       "image": "https://picsum.photos/400/400?random=33",
-      "rating": 2.0524255701398855,
-      "inStock": true,
-      "fastDelivery": false,
+      "rating": 4.519096220648221,
+      "inStock": false,
+      "fastDelivery": true,
       "tags": [
-        "popular",
-        "sale"
+        "sale",
+        "popular"
       ],
-      "brand": "Huel - Ferry"
+      "brand": "Ondricka Group"
     },
     {
       "id": 34,
-      "name": "Tasty Plastic Sausages",
-      "price": 177.35,
-      "description": "The sleek and minor Towels comes with mint green LED lighting for smart functionality",
-      "category": "Jewelry",
+      "name": "Handcrafted Steel Salad",
+      "price": 685.39,
+      "description": "New Hat model with 21 GB RAM, 257 GB storage, and unwieldy features",
+      "category": "Industrial",
       "image": "https://picsum.photos/400/400?random=34",
-      "rating": 1.3803936606399327,
-      "inStock": false,
-      "fastDelivery": true,
+      "rating": 1.006003888857923,
+      "inStock": true,
+      "fastDelivery": false,
       "tags": [
-        "popular",
+        "sale",
         "new"
       ],
-      "brand": "Walker Group"
+      "brand": "Bernier - Monahan"
     },
     {
       "id": 35,
-      "name": "Fantastic Cotton Sausages",
-      "price": 194.05,
-      "description": "Introducing the Algeria-inspired Chair, blending able style with local craftsmanship",
-      "category": "Electronics",
+      "name": "Licensed Silk Car",
+      "price": 77.05,
+      "description": "New Hat model with 33 GB RAM, 756 GB storage, and noteworthy features",
+      "category": "Books",
       "image": "https://picsum.photos/400/400?random=35",
-      "rating": 3.068018093138649,
+      "rating": 1.5541506924260902,
       "inStock": false,
       "fastDelivery": true,
       "tags": [
-        "new",
-        "sale"
+        "sale",
+        "new"
       ],
-      "brand": "Dickens - Hettinger"
+      "brand": "Shanahan Group"
     },
     {
       "id": 36,
-      "name": "Unbranded Granite Shoes",
-      "price": 645.79,
-      "description": "Experience the green brilliance of our Ball, perfect for boiling environments",
-      "category": "Outdoors",
+      "name": "Awesome Granite Cheese",
+      "price": 561.19,
+      "description": "The sleek and stunning Shoes comes with violet LED lighting for smart functionality",
+      "category": "Garden",
       "image": "https://picsum.photos/400/400?random=36",
-      "rating": 1.4010027123843836,
+      "rating": 2.088170644006078,
       "inStock": true,
       "fastDelivery": true,
       "tags": [
         "popular",
         "sale"
       ],
-      "brand": "Fadel - Kirlin"
+      "brand": "Cassin - Sanford"
     },
     {
       "id": 37,
-      "name": "Practical Ceramic Chair",
-      "price": 844.18,
-      "description": "Discover the monkey-like agility of our Shirt, perfect for unkempt users",
-      "category": "Shoes",
+      "name": "Oriental Plastic Computer",
+      "price": 627.29,
+      "description": "Ergonomic Sausages made with Concrete for all-day joyful support",
+      "category": "Beauty",
       "image": "https://picsum.photos/400/400?random=37",
-      "rating": 1.6293731873604411,
-      "inStock": false,
-      "fastDelivery": false,
+      "rating": 3.6079198815718287,
+      "inStock": true,
+      "fastDelivery": true,
       "tags": [
-        "new",
+        "popular",
         "sale"
       ],
-      "brand": "Lindgren - White"
+      "brand": "Carroll - Schowalter"
     },
     {
       "id": 38,
-      "name": "Fresh Metal Computer",
-      "price": 902.89,
-      "description": "Ergonomic Pants made with Steel for all-day murky support",
-      "category": "Movies",
+      "name": "Fantastic Bronze Computer",
+      "price": 350.75,
+      "description": "Innovative Sausages featuring friendly technology and Wooden construction",
+      "category": "Tools",
       "image": "https://picsum.photos/400/400?random=38",
-      "rating": 1.3286619260740822,
+      "rating": 1.9535095887905607,
       "inStock": false,
-      "fastDelivery": false,
+      "fastDelivery": true,
       "tags": [
-        "sale",
-        "popular"
+        "popular",
+        "sale"
       ],
-      "brand": "Braun, Reynolds and Adams"
+      "brand": "Quigley, Fritsch and Hodkiewicz"
     },
     {
       "id": 39,
-      "name": "Fresh Metal Fish",
-      "price": 764.39,
-      "description": "Discover the zebra-like agility of our Shirt, perfect for outgoing users",
-      "category": "Music",
+      "name": "Elegant Gold Pants",
+      "price": 227.49,
+      "description": "Professional-grade Table perfect for nice training and recreational use",
+      "category": "Movies",
       "image": "https://picsum.photos/400/400?random=39",
-      "rating": 1.8144441484375404,
+      "rating": 3.6527491131114482,
       "inStock": true,
-      "fastDelivery": false,
+      "fastDelivery": true,
       "tags": [
-        "popular",
+        "new",
         "sale"
       ],
-      "brand": "Berge - Krajcik"
+      "brand": "Koss, Schmidt and Cormier"
     },
     {
       "id": 40,
-      "name": "Bespoke Aluminum Chicken",
-      "price": 280.99,
-      "description": "Featuring Palladium-enhanced technology, our Ball offers unparalleled rotating performance",
-      "category": "Music",
+      "name": "Handmade Marble Gloves",
+      "price": 486.4,
+      "description": "The Llewellyn Cheese is the latest in a series of crafty products from Grant Inc",
+      "category": "Games",
       "image": "https://picsum.photos/400/400?random=40",
-      "rating": 2.5151844212068832,
-      "inStock": true,
-      "fastDelivery": false,
+      "rating": 3.615602493620568,
+      "inStock": false,
+      "fastDelivery": true,
       "tags": [
-        "sale",
-        "new"
+        "new",
+        "sale"
       ],
-      "brand": "Reynolds Group"
+      "brand": "Gulgowski - Rath"
     },
     {
       "id": 41,
-      "name": "Intelligent Steel Tuna",
-      "price": 145.19,
-      "description": "The Profit-focused asymmetric hub Towels offers reliable performance and glass design",
-      "category": "Automotive",
+      "name": "Sleek Bronze Ball",
+      "price": 641.69,
+      "description": "Our rich-inspired Chicken brings a taste of luxury to your jaunty lifestyle",
+      "category": "Jewelry",
       "image": "https://picsum.photos/400/400?random=41",
-      "rating": 4.4739746721569995,
-      "inStock": false,
+      "rating": 1.4017804527171625,
+      "inStock": true,
       "fastDelivery": true,
       "tags": [
-        "popular",
-        "sale"
+        "sale",
+        "new"
       ],
-      "brand": "Bashirian - Marquardt"
+      "brand": "Moore Inc"
     },
     {
       "id": 42,
-      "name": "Bespoke Concrete Computer",
-      "price": 137.69,
-      "description": "Our frog-friendly Fish ensures unaware comfort for your pets",
-      "category": "Computers",
+      "name": "Bespoke Rubber Sausages",
+      "price": 100.09,
+      "description": "Our sea lion-friendly Chicken ensures lasting comfort for your pets",
+      "category": "Garden",
       "image": "https://picsum.photos/400/400?random=42",
-      "rating": 3.2375861573845914,
+      "rating": 3.859827887806076,
       "inStock": true,
-      "fastDelivery": true,
+      "fastDelivery": false,
       "tags": [
-        "new",
+        "sale",
         "popular"
       ],
-      "brand": "Bernhard Group"
+      "brand": "Cormier and Sons"
     },
     {
       "id": 43,
-      "name": "Luxurious Steel Soap",
-      "price": 645.49,
-      "description": "Featuring Osmium-enhanced technology, our Table offers unparalleled sociable performance",
-      "category": "Outdoors",
+      "name": "Ergonomic Rubber Pizza",
+      "price": 93.65,
+      "description": "Our bear-friendly Gloves ensures clean comfort for your pets",
+      "category": "Beauty",
       "image": "https://picsum.photos/400/400?random=43",
-      "rating": 4.557856861631302,
-      "inStock": false,
-      "fastDelivery": false,
-      "tags": [
-        "new",
-        "sale"
-      ],
-      "brand": "Schneider, Mohr and McDermott"
-    },
-    {
-      "id": 44,
-      "name": "Elegant Granite Keyboard",
-      "price": 234.85,
-      "description": "Discover the sea lion-like agility of our Pizza, perfect for tight users",
-      "category": "Shoes",
-      "image": "https://picsum.photos/400/400?random=44",
-      "rating": 4.744736246237082,
+      "rating": 1.3783870504153755,
       "inStock": true,
-      "fastDelivery": false,
+      "fastDelivery": true,
       "tags": [
         "popular",
         "sale"
       ],
-      "brand": "Torp - Schmitt"
+      "brand": "Metz - Tillman"
     },
     {
-      "id": 45,
-      "name": "Rustic Rubber Chips",
-      "price": 878.19,
-      "description": "Professional-grade Bike perfect for spherical training and recreational use",
-      "category": "Clothing",
-      "image": "https://picsum.photos/400/400?random=45",
-      "rating": 2.7948474948598263,
-      "inStock": true,
-      "fastDelivery": false,
-      "tags": [
-        "new",
-        "popular"
-      ],
-      "brand": "Kassulke Inc"
-    },
-    {
-      "id": 46,
-      "name": "Elegant Bamboo Table",
-      "price": 397.69,
-      "description": "Modern Tuna designed with Cotton for royal performance",
+      "id": 44,
+      "name": "Tasty Granite Cheese",
+      "price": 383.65,
+      "description": "Romaguera and Sons's most advanced Hat technology increases heartfelt capabilities",
       "category": "Shoes",
-      "image": "https://picsum.photos/400/400?random=46",
-      "rating": 1.4778535714724197,
+      "image": "https://picsum.photos/400/400?random=44",
+      "rating": 1.488824075224076,
       "inStock": true,
       "fastDelivery": true,
       "tags": [
-        "new",
-        "popular"
+        "sale",
+        "new"
       ],
-      "brand": "Mueller, Gerhold and Wolf"
+      "brand": "Moen, Walker and Stoltenberg"
     },
     {
-      "id": 47,
-      "name": "Refined Rubber Chips",
-      "price": 474.69,
-      "description": "The sleek and humble Towels comes with tan LED lighting for smart functionality",
-      "category": "Shoes",
-      "image": "https://picsum.photos/400/400?random=47",
-      "rating": 4.988373482704844,
-      "inStock": false,
+      "id": 45,
+      "name": "Rustic Gold Tuna",
+      "price": 469.09,
+      "description": "Soft Table designed with Steel for second performance",
+      "category": "Kids",
+      "image": "https://picsum.photos/400/400?random=45",
+      "rating": 4.855660105011407,
+      "inStock": true,
       "fastDelivery": false,
       "tags": [
         "new",
         "sale"
       ],
-      "brand": "Bailey, Larson and Bins"
+      "brand": "Schmeler, Brown and Rowe"
     },
     {
-      "id": 48,
-      "name": "Electronic Cotton Pants",
-      "price": 864.29,
-      "description": "Discover the rabbit-like agility of our Fish, perfect for unruly users",
-      "category": "Computers",
-      "image": "https://picsum.photos/400/400?random=48",
-      "rating": 1.8571632800818523,
+      "id": 46,
+      "name": "Practical Granite Fish",
+      "price": 610.55,
+      "description": "The Optimized bottom-line matrix Salad offers reliable performance and remarkable design",
+      "category": "Grocery",
+      "image": "https://picsum.photos/400/400?random=46",
+      "rating": 3.795191268982552,
       "inStock": false,
       "fastDelivery": true,
       "tags": [
         "sale",
         "popular"
       ],
-      "brand": "Schoen LLC"
+      "brand": "Jacobs, Lesch and Jones"
+    },
+    {
+      "id": 47,
+      "name": "Practical Bronze Bacon",
+      "price": 311.8,
+      "description": "The sleek and terrible Gloves comes with red LED lighting for smart functionality",
+      "category": "Clothing",
+      "image": "https://picsum.photos/400/400?random=47",
+      "rating": 4.506539934227226,
+      "inStock": false,
+      "fastDelivery": false,
+      "tags": [
+        "popular",
+        "sale"
+      ],
+      "brand": "Kulas and Sons"
+    },
+    {
+      "id": 48,
+      "name": "Soft Wooden Salad",
+      "price": 342.4,
+      "description": "New white Soap with ergonomic design for close comfort",
+      "category": "Clothing",
+      "image": "https://picsum.photos/400/400?random=48",
+      "rating": 3.156186671258522,
+      "inStock": false,
+      "fastDelivery": false,
+      "tags": [
+        "popular",
+        "sale"
+      ],
+      "brand": "Hills LLC"
     },
     {
       "id": 49,
-      "name": "Intelligent Rubber Towels",
-      "price": 778.39,
-      "description": "Featuring Cerium-enhanced technology, our Mouse offers unparalleled intelligent performance",
-      "category": "Books",
+      "name": "Rustic Metal Gloves",
+      "price": 491.19,
+      "description": "Innovative Shirt featuring tattered technology and Marble construction",
+      "category": "Clothing",
       "image": "https://picsum.photos/400/400?random=49",
-      "rating": 4.430863434447744,
+      "rating": 4.081681721599967,
       "inStock": false,
       "fastDelivery": true,
       "tags": [
         "popular",
         "new"
       ],
-      "brand": "Beatty, Thompson and Mayert"
+      "brand": "Mueller - Hirthe"
     },
     {
       "id": 50,
-      "name": "Recycled Marble Shoes",
-      "price": 77.09,
-      "description": "The sleek and immediate Salad comes with mint green LED lighting for smart functionality",
+      "name": "Rustic Aluminum Car",
+      "price": 339.79,
+      "description": "The sleek and important Bike comes with fuchsia LED lighting for smart functionality",
       "category": "Shoes",
       "image": "https://picsum.photos/400/400?random=50",
-      "rating": 2.3697873192137395,
+      "rating": 2.8083437012059473,
       "inStock": false,
       "fastDelivery": true,
       "tags": [
-        "new",
-        "sale"
+        "sale",
+        "popular"
       ],
-      "brand": "Daniel, Hegmann and Rosenbaum"
+      "brand": "Kuhic, Effertz and Legros"
     }
   ],
   "categories": [
@@ -846,122 +846,122 @@
   "users": [
     {
       "id": 1,
-      "firstName": "Graciela",
-      "lastName": "Schmeler",
-      "email": "Crystel.Conn83@hotmail.com",
-      "avatar": "https://avatars.githubusercontent.com/u/76492834",
+      "firstName": "Price",
+      "lastName": "Graham",
+      "email": "Esperanza48@gmail.com",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/75.jpg",
       "address": {
-        "street": "7492 Sycamore Avenue",
-        "city": "Dulcemouth",
-        "zipCode": "03765-3897"
+        "street": "6325 Princess Street",
+        "city": "Ontario",
+        "zipCode": "18218-0321"
       }
     },
     {
       "id": 2,
-      "firstName": "Santina",
-      "lastName": "Huel",
-      "email": "Claudie.Altenwerth92@hotmail.com",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/84.jpg",
+      "firstName": "Liliane",
+      "lastName": "Schulist",
+      "email": "Thaddeus.Ortiz@gmail.com",
+      "avatar": "https://avatars.githubusercontent.com/u/61320147",
       "address": {
-        "street": "96469 Mill Close",
-        "city": "Goyetteland",
-        "zipCode": "98633"
+        "street": "163 E Water Street",
+        "city": "Harrisonburg",
+        "zipCode": "96769"
       }
     },
     {
       "id": 3,
-      "firstName": "Gillian",
-      "lastName": "Zboncak",
-      "email": "Citlalli_Becker@yahoo.com",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/51.jpg",
+      "firstName": "Gene",
+      "lastName": "Zulauf",
+      "email": "Lorenz87@hotmail.com",
+      "avatar": "https://avatars.githubusercontent.com/u/72224740",
       "address": {
-        "street": "5601 Fritsch Keys",
-        "city": "Herzogbury",
-        "zipCode": "02657"
+        "street": "49774 Johnston Junction",
+        "city": "Zoiefurt",
+        "zipCode": "36454"
       }
     },
     {
       "id": 4,
-      "firstName": "Abigail",
-      "lastName": "Franey",
-      "email": "Miles.Rath@gmail.com",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/77.jpg",
+      "firstName": "Tyson",
+      "lastName": "Zulauf",
+      "email": "Rahul.Wiegand@hotmail.com",
+      "avatar": "https://avatars.githubusercontent.com/u/11806339",
       "address": {
-        "street": "880 Windsor Close",
-        "city": "West Zoraberg",
-        "zipCode": "10697-9144"
+        "street": "445 Clint Track",
+        "city": "Erickberg",
+        "zipCode": "37696-3293"
       }
     },
     {
       "id": 5,
-      "firstName": "Alvena",
-      "lastName": "Bogan",
-      "email": "Waino_Corwin@yahoo.com",
-      "avatar": "https://avatars.githubusercontent.com/u/41198531",
+      "firstName": "Annetta",
+      "lastName": "Bins",
+      "email": "Araceli20@gmail.com",
+      "avatar": "https://avatars.githubusercontent.com/u/60526147",
       "address": {
-        "street": "554 Ricardo Vista",
-        "city": "Weymouth Town",
-        "zipCode": "41584"
+        "street": "41261 7th Avenue",
+        "city": "South Chazberg",
+        "zipCode": "48984"
       }
     },
     {
       "id": 6,
-      "firstName": "Bryon",
-      "lastName": "Leffler",
-      "email": "Haskell.Schaefer@gmail.com",
-      "avatar": "https://avatars.githubusercontent.com/u/9352280",
+      "firstName": "Raven",
+      "lastName": "Williamson",
+      "email": "Amalia_Conn@hotmail.com",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/42.jpg",
       "address": {
-        "street": "6800 Riverside Drive",
-        "city": "New Coryworth",
-        "zipCode": "55504"
+        "street": "11038 Rice Landing",
+        "city": "Huntington Park",
+        "zipCode": "30545"
       }
     },
     {
       "id": 7,
-      "firstName": "Trinity",
-      "lastName": "Aufderhar",
-      "email": "Tia_Wilkinson71@yahoo.com",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/40.jpg",
+      "firstName": "Camren",
+      "lastName": "Wolff-Gottlieb",
+      "email": "Skylar_Hayes@gmail.com",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/75.jpg",
       "address": {
-        "street": "45159 Gladstone Road",
-        "city": "Port Kaia",
-        "zipCode": "41133"
+        "street": "8021 Price Pass",
+        "city": "Annettaberg",
+        "zipCode": "80419"
       }
     },
     {
       "id": 8,
-      "firstName": "Kameron",
-      "lastName": "Schaefer",
-      "email": "Tavares90@yahoo.com",
-      "avatar": "https://avatars.githubusercontent.com/u/4590667",
+      "firstName": "Mohammed",
+      "lastName": "Moore",
+      "email": "Erick.Volkman-Kutch@hotmail.com",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/22.jpg",
       "address": {
-        "street": "247 Grant Street",
-        "city": "North Wendell",
-        "zipCode": "90399"
+        "street": "961 W Elm Street",
+        "city": "Lake Alphonsocester",
+        "zipCode": "43777-5901"
       }
     },
     {
       "id": 9,
-      "firstName": "April",
-      "lastName": "Parisian",
-      "email": "Lon_Franey@gmail.com",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/62.jpg",
+      "firstName": "Alanis",
+      "lastName": "Schultz",
+      "email": "Wilbert.Kuhn@hotmail.com",
+      "avatar": "https://avatars.githubusercontent.com/u/60485274",
       "address": {
-        "street": "392 Alexane Plaza",
-        "city": "North Charleston",
-        "zipCode": "18766"
+        "street": "803 Sidney Manor",
+        "city": "Nashville-Davidson",
+        "zipCode": "79999-4255"
       }
     },
     {
       "id": 10,
-      "firstName": "Yasmeen",
-      "lastName": "Wiza",
-      "email": "Henderson89@yahoo.com",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/81.jpg",
+      "firstName": "Ansel",
+      "lastName": "Greenfelder",
+      "email": "Mable_Ankunding72@hotmail.com",
+      "avatar": "https://avatars.githubusercontent.com/u/16607908",
       "address": {
-        "street": "77503 Fisher Haven",
-        "city": "Franklin",
-        "zipCode": "59788-1195"
+        "street": "7388 Prospect Avenue",
+        "city": "Cathrinefort",
+        "zipCode": "12655-9248"
       }
     }
   ],
